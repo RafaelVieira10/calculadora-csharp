@@ -10,7 +10,7 @@ namespace program
             Calculadora calc = new Calculadora();
 
             Console.WriteLine("===========================");
-            Console.WriteLine("      Calculadora");
+            Console.WriteLine("     Calculadora");
             Console.WriteLine("===========================");
 
             while (true)
