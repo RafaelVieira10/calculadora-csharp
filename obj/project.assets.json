@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SENAI\\Documents\\Rafael Vieira\\FPOO 1S\\calculadora-c#\\calculadora\\calculadora.csproj",
+      "projectUniqueName": "C:\\Users\\SENAI\\Documents\\Rafael Vieira\\FPOO 1S\\calculadora-csharp\\calculadora.csproj",
       "projectName": "calculadora",
-      "projectPath": "C:\\Users\\SENAI\\Documents\\Rafael Vieira\\FPOO 1S\\calculadora-c#\\calculadora\\calculadora.csproj",
+      "projectPath": "C:\\Users\\SENAI\\Documents\\Rafael Vieira\\FPOO 1S\\calculadora-csharp\\calculadora.csproj",
       "packagesPath": "C:\\Users\\SENAI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SENAI\\Documents\\Rafael Vieira\\FPOO 1S\\calculadora-c#\\calculadora\\obj\\",
+      "outputPath": "C:\\Users\\SENAI\\Documents\\Rafael Vieira\\FPOO 1S\\calculadora-csharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SENAI\\AppData\\Roaming\\NuGet\\NuGet.Config"

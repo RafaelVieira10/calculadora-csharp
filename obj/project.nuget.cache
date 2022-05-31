@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6qLQpgVtFTjBW14fa6xEVbSvs8pPkd0kV+u1hSPs6AMl1NGfgOZB2txgzwU/vBvYwGQ5gpcpaZQidyQJFKRdgw==",
+  "dgSpecHash": "olTGpVedkrLXzzaQCJFA/0iO6FLhFAju+KOzzgZv+V+xgEJK0fD2Axu8/DSvm167zSC4+BF/RXMFuRJiS4Q1Eg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SENAI\\Documents\\Rafael Vieira\\FPOO 1S\\calculadora-c#\\calculadora\\calculadora.csproj",
+  "projectFilePath": "C:\\Users\\SENAI\\Documents\\Rafael Vieira\\FPOO 1S\\calculadora-csharp\\calculadora.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

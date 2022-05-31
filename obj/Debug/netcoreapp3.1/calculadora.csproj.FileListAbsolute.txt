@@ -11,3 +11,16 @@ C:\Users\SENAI\Documents\Rafael Vieira\FPOO 1S\calculadora-c#\calculadora\obj\De
 C:\Users\SENAI\Documents\Rafael Vieira\FPOO 1S\calculadora-c#\calculadora\obj\Debug\netcoreapp3.1\calculadora.dll
 C:\Users\SENAI\Documents\Rafael Vieira\FPOO 1S\calculadora-c#\calculadora\obj\Debug\netcoreapp3.1\calculadora.pdb
 C:\Users\SENAI\Documents\Rafael Vieira\FPOO 1S\calculadora-c#\calculadora\obj\Debug\netcoreapp3.1\calculadora.genruntimeconfig.cache
+C:\Users\SENAI\Documents\Rafael Vieira\FPOO 1S\calculadora-csharp\bin\Debug\netcoreapp3.1\calculadora.exe
+C:\Users\SENAI\Documents\Rafael Vieira\FPOO 1S\calculadora-csharp\bin\Debug\netcoreapp3.1\calculadora.deps.json
+C:\Users\SENAI\Documents\Rafael Vieira\FPOO 1S\calculadora-csharp\bin\Debug\netcoreapp3.1\calculadora.runtimeconfig.json
+C:\Users\SENAI\Documents\Rafael Vieira\FPOO 1S\calculadora-csharp\bin\Debug\netcoreapp3.1\calculadora.runtimeconfig.dev.json
+C:\Users\SENAI\Documents\Rafael Vieira\FPOO 1S\calculadora-csharp\bin\Debug\netcoreapp3.1\calculadora.dll
+C:\Users\SENAI\Documents\Rafael Vieira\FPOO 1S\calculadora-csharp\bin\Debug\netcoreapp3.1\calculadora.pdb
+C:\Users\SENAI\Documents\Rafael Vieira\FPOO 1S\calculadora-csharp\obj\Debug\netcoreapp3.1\calculadora.csprojAssemblyReference.cache
+C:\Users\SENAI\Documents\Rafael Vieira\FPOO 1S\calculadora-csharp\obj\Debug\netcoreapp3.1\calculadora.AssemblyInfoInputs.cache
+C:\Users\SENAI\Documents\Rafael Vieira\FPOO 1S\calculadora-csharp\obj\Debug\netcoreapp3.1\calculadora.AssemblyInfo.cs
+C:\Users\SENAI\Documents\Rafael Vieira\FPOO 1S\calculadora-csharp\obj\Debug\netcoreapp3.1\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\Rafael Vieira\FPOO 1S\calculadora-csharp\obj\Debug\netcoreapp3.1\calculadora.dll
+C:\Users\SENAI\Documents\Rafael Vieira\FPOO 1S\calculadora-csharp\obj\Debug\netcoreapp3.1\calculadora.pdb
+C:\Users\SENAI\Documents\Rafael Vieira\FPOO 1S\calculadora-csharp\obj\Debug\netcoreapp3.1\calculadora.genruntimeconfig.cache
